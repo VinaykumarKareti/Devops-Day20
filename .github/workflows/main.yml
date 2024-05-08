@@ -20,4 +20,4 @@ jobs:
 
     - name: Run Tests
       run: |
-        python -m pytest addition.py
+        python -m pytest temfile.py
